@@ -1,0 +1,16 @@
+p { background-color: #f2eecb;
+    font-family: "Times New Roman"; /* https://www.w3schools.com/css/css_font.asp */
+    font-size: 150%;
+}
+body { background-color: #f2eecb !important;}
+/*https://stackoverflow.com/questions/16813220/how-can-i-override-inline-styles-with-external-css*/
+
+
+h1,h2,h3,h4,h5 {font-family: "Brush Script MT"!important;
+    font-style: oblique !important;
+    color: green !important;
+}
+
+img {
+    width: 50% !important;
+}

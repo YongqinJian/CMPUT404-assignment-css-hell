@@ -21,6 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 =================
+
+Works done
+=================
 I added a link to the .css file in order to apply the .css file to these documents
 I changed background color for body and paragraph, the font-family and color for header tags, and I shrank all images by 50%
 

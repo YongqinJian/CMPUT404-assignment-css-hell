@@ -51,7 +51,7 @@
 
    Include at least 3 sections:
 
-   Who you are + photo
+   Who you are + photo1
 
    Your professional history
 

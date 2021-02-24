@@ -1,0 +1,52 @@
+
+
+body{
+    background-color:  yellowgreen;
+    font-family: "Times New Roman";
+    margin-top: 10%;
+}
+
+
+img{
+    display: block;
+    width: 50%;
+}
+
+.sidebar{
+    padding-top: 10px;
+    width: 300px;
+    position: fixed;
+    top: 200px;
+    left: 0;
+    background-color: orange;
+}
+
+.topbar{
+    z-index:1;
+    position:fixed;
+    margin-left: 290px;
+    height:50px;
+    top:0;
+    padding-top: 30px;
+    background-color: purple;
+}
+
+.topbar a{
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    padding: 50px
+}
+
+.body{
+    margin-top: 10%;
+    margin-left: 300px;
+    font-size: 20px;
+
+}
+
+.body p{
+    background-color: mediumvioletred;
+}
+
+h2{color: rebeccapurple}
